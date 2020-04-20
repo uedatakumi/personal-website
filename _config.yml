@@ -16,6 +16,11 @@ defaults:
       layout: "post"
 
 topics:
-  - name: Web application development
+  - name: Ruby
+    web_url: https://github.com/topics/ruby
 
-  - name: Web design
+  - name: Python
+    web_url: https://github.com/topics/python
+
+  - name: Haskell
+    web_url: https://github.com/topics/haskell
